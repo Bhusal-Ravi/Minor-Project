@@ -1,0 +1,84 @@
+*{
+ box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+
+.site-title{
+    font-size: 2rem;
+}
+
+.nav{
+    background-color: #f8d692;
+    color: rgb(36, 36, 36);
+    display: flex;
+    justify-content: center;
+   
+    gap: 2rem;
+    padding:0 1rem ;
+}
+
+.nav ul{
+    padding: 0;
+    margin: 0;
+    list-style:none;
+    display: flex;
+    gap: 1rem;
+}
+
+.nav a{
+    color: inherit;
+    text-decoration: none;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: .25rem;
+    
+
+}
+.nav li.active{
+    background-color: #555;
+}
+
+nav li:hover{
+    background-color:#777 ;
+}
+
+
+.nav{
+    margin-bottom: 50px;
+}
+
+
+/* Navbar.css */
+
+.site-logo {
+    display: flex; /* Use flexbox */
+    align-items: center; /* Vertically center the items */
+  }
+  
+
+.site-title {
+  font-size: 2rem;
+  margin-right: 20px; /* Add spacing between the title and logo */
+  font-weight: bold; /* Optional: Make the title bold */
+  text-decoration: none;
+  display: inline; /* Remove default link underline */
+  color: #333;
+  vertical-align: middle; /* Adjust the color as needed */
+}
+
+.logo1 {
+  width: 70px; /* Adjust the logo width as needed */
+  height: 70px;
+  display: inline;
+  vertical-align: middle;
+  opacity: 100; /* Adjust the logo height as needed */
+}
+
+
+  
+  
+ 
+

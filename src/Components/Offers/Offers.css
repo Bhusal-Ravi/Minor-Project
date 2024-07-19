@@ -1,0 +1,35 @@
+
+
+.what-we-offer {
+    background-color: #f8d692; 
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .what-we-offer h2 {
+    font-size: 2.5em; /* Larger font size */
+    margin-bottom: 20px;
+    color: #343a40;
+    font-weight: bold; /* Added bold font weight */
+  }
+  
+  .what-we-offer ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .what-we-offer ul li {
+    font-size: 1.2em;
+    color: #495057;
+    margin-bottom: 15px;
+    padding: 15px; /* Increased padding for better spacing */
+    background: #ffffff; /* White background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
