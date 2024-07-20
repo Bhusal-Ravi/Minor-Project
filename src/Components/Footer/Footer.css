@@ -1,0 +1,26 @@
+/* Footer.css */
+
+.footer {
+    background-color: #F8D692;
+    color: #000000;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .footer nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .footer nav ul li a {
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  /* Style the copyright notice or any other footer elements as needed */
+  
