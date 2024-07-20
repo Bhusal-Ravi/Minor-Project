@@ -17,3 +17,13 @@ It aims to revolutionize the traditional land registration process by leveraging
 
 By usig the blockchain technology, we can avoid all the drawbacks of the traditional system. As blockchain is an immutable and decentralized ledger, all the transactions that happended through the blockchain are transparent, unalterable, and secure. <br>
 So, No one can get the false ownership by altering the data, and transferrig the ownership of the property from one person to another person can be done without involvement of any third parties and government in a secure, transparent, and within no time.
+
+## TECH & Tools
+``` 
+* MongoDB
+* Solidity
+* Ethereum Blockchain
+* Truffle
+* Ganache
+* Metamask
+```
