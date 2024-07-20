@@ -3,8 +3,8 @@ import
 { BsGrid1X2Fill, BsPeopleFill, 
   }
  from 'react-icons/bs'
- import { GoSidebarCollapse } from "react-icons/go";
- import { MdBugReport } from "react-icons/md";
+import { IoMdMenu } from "react-icons/io";
+  import { MdBugReport } from "react-icons/md";
  import { GoLaw } from "react-icons/go";
  import { MdAdminPanelSettings } from "react-icons/md";
  import { MdOutlinePending } from "react-icons/md";
@@ -15,7 +15,7 @@ function Sidebar({openSidebarToggle, OpenSidebar}) {
     <aside id="sidebar" className={openSidebarToggle ? "sidebar-responsive": ""}>
         <div className='sidebar-title'>
             <div className='sidebar-brand'>
-                < GoSidebarCollapse className='icon_header'/> SIDEBAR
+                < IoMdMenu className='icon_header'/> MENU
             </div>
             <span className='icon close_icon' onClick={OpenSidebar}>X</span>
         </div>
