@@ -19,7 +19,7 @@ const Footer = () => {
           </li>
         </ul>
       </nav>
-      <p>© 2024 Your Company. All rights reserved.</p>
+      <p>© 2024 LORS TEAM. All rights reserved.</p>
     </footer>
   );
 };

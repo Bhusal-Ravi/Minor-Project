@@ -1,3 +1,8 @@
+.body{
+    
+  background: linear-gradient(to bottom right, #ED8F03, #f0c97a);
+}
+
 .container {
   background-size: cover;
   display: flex;
