@@ -142,6 +142,11 @@ body {
     justify-content: space-around;
     padding: 8px 15px;
     border-radius: 5px;
+    &:hover{
+      text-decoration: underline;
+      scale: 1.1;
+      color: black;
+    }
   }
   
   .card:first-child {
